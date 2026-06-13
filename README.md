@@ -74,11 +74,11 @@ The model was successfully fine-tuned to generate supportive conversational resp
 
 ### Chat Interface
 
-![Chat Interface](screenshots/Screenshot(94).png)
+![Chat Interface](screenshots/Screenshot%20(94).png)
 
 ### Example Conversation
 
-![example](screenshots/Screenshot(95).png)
+![example](screenshots/Screenshot%20(95).png)
 
 ## Installation
 
